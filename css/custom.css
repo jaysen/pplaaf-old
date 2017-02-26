@@ -40,6 +40,10 @@
 	margin: 10px 0;
 }
 
-#whatwedo {
+#whatwedo, #qas {
 	background-color: #eee;
+}
+
+#qas h3 {
+	padding-top: 20px;
 }

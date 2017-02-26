@@ -1,0 +1,45 @@
+.hero-section {
+	padding-top: 100px !important;
+	background-image: url(../img/background.jpg) !important;
+	background-size: cover !important;
+}
+
+.link-list {
+	padding-top: 0 !important;
+}
+
+.link-list li {
+	margin: 20px 0;
+}
+
+.link-list li a {
+	font-family: Poppins;
+	font-size: 20px;
+	color: #333;
+	transition: all 0.5s;
+	transition-property: all;
+	transition-duration: 0.5s;
+	transition-timing-function: initial;
+	transition-delay: initial;
+}
+
+.link-list li a:hover {
+	color: #fff;
+	text-decoration: none;
+}
+
+.navbar {
+	opacity: 0;
+}
+
+.past-main {
+	opacity: 1;
+}
+
+.pitch-intro p {
+	margin: 10px 0;
+}
+
+#whatwedo {
+	background-color: #eee;
+}

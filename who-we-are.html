@@ -6,7 +6,17 @@ layout: default
 		<h1>Who we are</h1>
 	</div>
 	<div class="container content">
-		<div class="row">
+		<h2>Advisory board</h2>
+		{% for member in site.board %}
+		<div class="row board">
+			<div class="col-xs-12">
+				<h3>{{ member.name }}</h3>
+				<p>{{ member.bio }}</p>
+			</div>
+		</div>
+		{% endfor %}
+		<h2>NGOs</h2>
+		<div class="row ngos">
 			{% for ngo in site.ngos %}
 			<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
 				<div class="ngo-box">
@@ -20,5 +30,18 @@ layout: default
 			</div>
 			{% endfor %}
 		</div>
+		<h2>Journalists</h2>
+		{% for journalist in site.journalists %}
+		<div class="row journalists">
+			<div class="col-xs-12 col-sm-10">
+				<div class="journalist-content">{{ journalist.content }}</div>
+			</div>
+			<div class="col-xs-12 col-sm-2">
+				{% if journalist.image %}
+				<img class="center-block" src="img/journalists/{{ journalist.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
 	</div>
 </div>

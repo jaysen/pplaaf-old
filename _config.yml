@@ -35,3 +35,5 @@ exclude:
 
 collections:
   ngos:
+  board:
+  journalists:

@@ -1,5 +1,10 @@
 ---
 ---
+h1, h2, h3, h4 {
+	font-family: 'Georgia', serif;
+}
+
+
 .navbar {
 	margin-bottom: 0;
 }
@@ -21,17 +26,20 @@
 	}
 }
 
-.who-we-are {
-	background-color: maroon;
+.who-we-are, .contact {
+	background-color: #a94442;
 	.container {
 		&.title {
-			background-color: maroon;
+			background-color: #a94442;
 			color: #fff;
+			h1 {
+				margin: 30px 0;
+			}
 		}
 		&.content {
 			background-color: #fff;
 			padding-top: 15px;
-			border-radius: 5px 5px 0 0;
+			box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.2);
 		}
 		.ngo-wrapper {
 			margin-bottom: 30px;
@@ -49,6 +57,31 @@
 					vertical-align: middle;
 					text-align: center;
 				}
+			}
+		}
+		.board{
+			&.row {
+				padding-bottom: 10px;
+				border-bottom: 1px solid #ccc;
+			}
+			&.row:last-of-type {
+				padding-bottom: 0;
+				border-bottom: 0px solid #ccc;
+			}
+		}
+		.journalists {
+			img {
+				width: 100%;
+			}
+			&.row {
+				padding-bottom: 20px;
+				margin-bottom: 20px;
+				border-bottom: 1px solid #ccc;
+			}
+			&.row:last-of-type {
+				padding-bottom: 0;
+				margin-bottom: 0;
+				border-bottom: 0px solid #ccc;
 			}
 		}
 	}

@@ -2,10 +2,23 @@
 layout: default
 ---
 <div class="who-we-are">
-	<div class="container">
+	<div class="container title">
 		<h1>Who we are</h1>
-		{% for ngo in ngo %}
-		
-		{% endfor %}
+	</div>
+	<div class="container content">
+		<div class="row">
+			{% for ngo in site.ngos %}
+			<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
+				<div class="ngo-box">
+					{% if ngo.image %}
+					<img class="center-block" src="img/ngo/{{ ngo.image }}">
+					{% endif %}
+					{% unless ngo.image %}
+					<div class="ngo-name">{{ ngo.name }}</div>
+					{% endunless %}
+				</div>
+			</div>
+			{% endfor %}
+		</div>
 	</div>
 </div>

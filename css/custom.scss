@@ -20,3 +20,36 @@
 		min-height: 100vh;
 	}
 }
+
+.who-we-are {
+	background-color: maroon;
+	.container {
+		&.title {
+			background-color: maroon;
+			color: #fff;
+		}
+		&.content {
+			background-color: #fff;
+			padding-top: 15px;
+			border-radius: 5px 5px 0 0;
+		}
+		.ngo-wrapper {
+			margin-bottom: 30px;
+			.ngo-box {
+				height: 150px;
+				padding: 30px;
+				border: 1px solid #ccc;
+				vertical-align: middle;
+				img {
+					max-width: 90%;
+					max-height: 90px;
+					vertical-align: middle;
+				}
+				.ngo-name {
+					vertical-align: middle;
+					text-align: center;
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,22 @@
+---
+---
+.navbar {
+	margin-bottom: 0;
+}
+
+.front-page {
+	.top-section {
+		background-image: url(../img/background.jpg);
+		background-size: cover;
+		min-height: 100vh;
+		background-position: center;
+
+		.row {
+			margin-top: 20vh;
+		}
+	}
+
+	#whoweare {
+		min-height: 100vh;
+	}
+}

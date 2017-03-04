@@ -6,7 +6,7 @@ layout: default
 		<h1>Who we are</h1>
 	</div>
 	<div class="container content">
-		<h2>Advisory board</h2>
+		<h2 id="board">Advisory board</h2>
 		{% for member in site.board %}
 		<div class="row board">
 			<div class="col-xs-12">
@@ -15,7 +15,7 @@ layout: default
 			</div>
 		</div>
 		{% endfor %}
-		<h2>NGOs</h2>
+		<h2 id="ngos">NGOs</h2>
 		<div class="row ngos">
 			{% for ngo in site.ngos %}
 			<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
@@ -30,7 +30,7 @@ layout: default
 			</div>
 			{% endfor %}
 		</div>
-		<h2>Journalists</h2>
+		<h2 id="journalists">Journalists</h2>
 		{% for journalist in site.journalists %}
 		<div class="row journalists">
 			<div class="col-xs-12 col-sm-10">

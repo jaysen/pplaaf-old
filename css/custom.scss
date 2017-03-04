@@ -1,7 +1,15 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Slabo+27px');
+
 h1, h2, h3, h4 {
-	font-family: 'Georgia', serif;
+	font-family: 'Slabo 27px', serif;
+}
+
+@media (min-width: 1200px) {
+	.container {
+	  width: 850px;
+	}
 }
 
 .navbar-default {
@@ -31,14 +39,25 @@ h1, h2, h3, h4 {
 		background-size: cover;
 		min-height: 100vh;
 		background-position: center;
-
+		.link-list {
+			font-family: 'Slabo 27px', serif;
+			font-size: 20px;
+			margin-top: 40px;
+			a {
+				color: #000;
+			}
+		}
 		.row {
 			margin-top: 20vh;
 		}
 	}
 
-	#whoweare {
-		min-height: 100vh;
+	.front-page {
+		background-color: #a94442;
+		background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+		.container.content {
+			background-color: #fff;
+		}
 	}
 
 	#whatwedo {
@@ -48,7 +67,7 @@ h1, h2, h3, h4 {
 		}
 		.what-icon {
 			margin: 0 0 10px 0;
-			background: #3333CC;
+			background: #a94442;
 			width: 60px;
 			height: 60px;
 			display: inline-block;
@@ -73,10 +92,12 @@ h1, h2, h3, h4 {
 .who-we-are, .contact {
 	margin-top: 52px;
 	background-color: #a94442;
+	background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
 	padding-bottom: 30px;
 	.container {
 		&.title {
 			background-color: #a94442;
+			background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
 			color: #fff;
 			h1 {
 				margin: 30px 0;

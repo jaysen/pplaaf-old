@@ -16,7 +16,7 @@ layout: default
 			</div>
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
-				<img class="center-block" src="img/management/{{ member.image }}">
+				<img class="center-block" src="{{ site.baseurl }}/img/management/{{ member.image }}">
 				{% endif %}
 			</div>
 		</div>
@@ -37,7 +37,7 @@ layout: default
 			</div>
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
-				<img class="center-block" src="img/board/{{ member.image }}">
+				<img class="center-block" src="{{ site.baseurl }}/img/board/{{ member.image }}">
 				{% endif %}
 			</div>
 		</div>
@@ -49,7 +49,7 @@ layout: default
 			<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
 				<div class="ngo-box">
 					{% if ngo.image %}
-					<img class="center-block" src="img/ngo/{{ ngo.image }}">
+					<img class="center-block" src="{{ site.baseurl }}/img/ngo/{{ ngo.image }}">
 					{% endif %}
 					{% unless ngo.image %}
 					<div class="ngo-name">{{ ngo.name }}</div>
@@ -68,7 +68,7 @@ layout: default
 			</div>
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if journalist.image %}
-				<img class="center-block" src="img/journalists/{{ journalist.image }}">
+				<img class="center-block" src="{{ site.baseurl }}/img/journalists/{{ journalist.image }}">
 				{% endif %}
 			</div>
 		</div>

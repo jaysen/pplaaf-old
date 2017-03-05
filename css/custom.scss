@@ -51,6 +51,7 @@ h1, h2, h3, h4 {
 			a {
 				color: #000;
 				border-radius: 4px 4px 0 0;
+				border-top: none;
 				border-bottom: 3px solid #fff;
 				font-size: 16px;
 				&:hover {
@@ -131,7 +132,7 @@ h1, h2, h3, h4 {
 	}
 }
 
-.who-we-are, .contact {
+.who-we-are, .contact, .faq {
 	margin-top: 52px;
 	background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
 	padding-bottom: 30px;
@@ -193,6 +194,24 @@ h1, h2, h3, h4 {
 				padding-bottom: 0;
 				margin-bottom: 0;
 				border-bottom: 0px solid #ccc;
+			}
+		}
+	}
+}
+
+.faq, .contact {
+	.title {
+		position: relative;
+		.language {
+			position: absolute;
+			bottom: 0;
+			right: 10px;
+			color: #000;
+			border: none;
+			border-radius: 4px 4px 0 0;
+			border-bottom: 3px solid #fff;
+			&:hover {
+				border-bottom-color: #a94442;
 			}
 		}
 	}

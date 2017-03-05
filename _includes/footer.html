@@ -1,2 +1,21 @@
-<script type="text/javascript" src="js/jquery-3.1.1.min.js"></script>
-<script src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script>
+  $("svg a").click(function(){
+    var country_title = $(this).attr("title")
+    var country_text = $(this).attr("text")
+    $("#title").hide().text(country_title).fadeIn(200)
+    $("#text").hide().text(country_text).fadeIn(200)
+    $("svg path").removeClass("clicked")
+    $("path", this).addClass("clicked")
+    $(".front-page hr").removeClass("hidden")
+  });
+</script>
+
+<script type="text/javascript">
+	$('.link-list a').on('click', function(event){     
+	    event.preventDefault();
+	    $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+	});
+</script>

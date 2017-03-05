@@ -34,6 +34,11 @@ h1, h2, h3, h4 {
 }
 
 .front-page {
+		background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+	.container.content {
+		background-color: #fff;
+	}
+
 	.top-section {
 		background-image: url(../img/background.jpg);
 		background-size: cover;
@@ -41,22 +46,41 @@ h1, h2, h3, h4 {
 		background-position: center;
 		.link-list {
 			font-family: 'Slabo 27px', serif;
-			font-size: 20px;
-			margin-top: 40px;
+			position: absolute;
+			bottom: 0;
 			a {
 				color: #000;
+				border-radius: 4px 4px 0 0;
+				border-bottom: 3px solid #fff;
+				font-size: 16px;
+				&:hover {
+					border-bottom-color: #a94442;
+				}
 			}
 		}
 		.row {
 			margin-top: 20vh;
 		}
+		hr {
+			border-top-color: #333;
+			margin-top: -15px;
+		}
+		#title, #text {
+			text-align: center;
+		}
+	}
+	.anchor {
+    display: block;
+    position: relative;
+    top: -55px;
+    visibility: hidden;
 	}
 
-	.front-page {
-		background-color: #a94442;
-		background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
-		.container.content {
-			background-color: #fff;
+	#whoweare {
+		.btn-morewho {
+			color: #fff;
+			background-color: #a94442;
+			border: none;
 		}
 	}
 
@@ -87,13 +111,36 @@ h1, h2, h3, h4 {
 			text-align: center;
 		}
 	}
+
+	svg {
+		max-width: 100%;
+		a {
+			cursor: pointer;
+		}
+	  path {
+	  	transition: all 0.2s;
+			fill: #000 !important;
+			stroke-width:1 !important;
+			&:hover {
+		    fill: #a94442 !important;
+			}
+			&.clicked {
+		    fill: #a94442 !important;
+		  }
+		}
+	}
 }
 
 .who-we-are, .contact {
 	margin-top: 52px;
-	background-color: #a94442;
 	background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
 	padding-bottom: 30px;
+	.anchor {
+    display: block;
+    position: relative;
+    top: -55px;
+    visibility: hidden;
+	}
 	.container {
 		&.title {
 			background-color: #a94442;
@@ -106,23 +153,25 @@ h1, h2, h3, h4 {
 		&.content {
 			background-color: #fff;
 			padding-bottom: 15px;
-			box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.2);
 		}
 		.ngo-wrapper {
 			margin-bottom: 30px;
 			.ngo-box {
 				height: 150px;
-				padding: 30px;
+				padding: 15px;
 				border: 1px solid #ccc;
 				vertical-align: middle;
 				img {
-					max-width: 90%;
-					max-height: 90px;
+					max-width: 100%;
+					max-height: 120px;
 				}
 				.ngo-name {
 					display: block;
 					vertical-align: middle;
 					text-align: center;
+					font-family: 'Slabo 27px', serif;
+					font-size: 17px;
+					padding-top: 20px;
 				}
 			}
 		}

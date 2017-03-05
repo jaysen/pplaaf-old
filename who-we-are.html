@@ -6,13 +6,39 @@ layout: default
 		<h1>Who we are</h1>
 	</div>
 	<div class="container content">
+		<span class="anchor" id="management"></span>
+		<h2>Management</h2>
+		{% for member in site.management %}
+		<h3>{{ member.name }} <small>{{ member.role }}</small></h3>
+		<div class="row management">
+			<div class="col-xs-12 col-sm-10">
+				<div class="management-content">{{ member.content }}</div>
+			</div>
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if member.image %}
+				<img class="center-block" src="img/management/{{ member.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+
+		<h2>Staff</h2>
+		<p>The Director of PPLAAF is South Africa-based Khadija Sharife. Khadija Sharife is an award-winning investigative journalist, researcher and editor. She is the Africa editor of OCCRP, author of Tax Us If You Can: Africa, board member of Finance Uncovered and fellow with the World Policy Institute. Previously, she was the editor at the African Network of Centers for Investigative Reporting (ANCIR). Her work has been presented at a number of forums including OECD, AU, Pan-African Parliaments among other platforms. She holds a master of financial law and is based in South Africa.</p>
+
+		<p style="padding-bottom:30px;">Senegal-based Charles Sanches, an activist, will help to coordinate and direct the center’s internal and external functions.</p>
+
 		<span class="anchor" id="board"></span>
 		<h2>Advisory board</h2>
 		{% for member in site.board %}
+		<h3>{{ member.name }}</h3>
 		<div class="row board">
-			<div class="col-xs-12">
-				<h3>{{ member.name }}</h3>
-				<p>{{ member.bio }}</p>
+			<div class="col-xs-12 col-sm-10">
+				<div class="board-content">{{ member.bio }}</div>
+			</div>
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if member.image %}
+				<img class="center-block" src="img/board/{{ member.image }}">
+				{% endif %}
 			</div>
 		</div>
 		{% endfor %}
@@ -35,11 +61,12 @@ layout: default
 		<span class="anchor" id="journalists"></span>
 		<h2>Journalists</h2>
 		{% for journalist in site.journalists %}
+		<h3>{{ journalist.name }}</h3>
 		<div class="row journalists">
 			<div class="col-xs-12 col-sm-10">
 				<div class="journalist-content">{{ journalist.content }}</div>
 			</div>
-			<div class="col-xs-12 col-sm-2">
+			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if journalist.image %}
 				<img class="center-block" src="img/journalists/{{ journalist.image }}">
 				{% endif %}

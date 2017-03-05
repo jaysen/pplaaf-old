@@ -1,6 +1,6 @@
 ---
-name: Emmanuel Mayah
-image: mayah.jpg
+name: Sana Sbouai
+country: Tunisia
+image: sbouai.jpg
 ---
-<b>Emmanuel Mayah</b>, Nigeria’s foremost undercover reporter, is a winner of 19 media awards. Mayah has exposed corruption in government, banking fraud, transfer pricing and the general illicit finance; tobacco smuggling, human trafficking, royalty fraud and organized crime in Nigeria’s extractive industry. He is maker of an investigative documentary, Tax ‘n’ Tempest.  
- 
+Sana Sbouai, is a French and Tunisian journalist. She mainly focuses her work on social issues, human rights and migration.  She settled in Tunisia from 2011 until 2015, where she co-founded  Inkyfada, a pureplayer magazine launched in 2014, focusing on report and investigative journalism. She is also a co-founder and board member of the tunisian NGO for innovative media, Al Khatt, launched in 2013. She studied Law and Journalism. She is currently living in France, working as a journalist, a trainer and studying sociology. 

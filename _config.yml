@@ -37,6 +37,7 @@ collections:
   ngos:
   board:
   journalists:
+  management:
   studies:
     output: true
     permalink: /:name.html

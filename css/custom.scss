@@ -153,6 +153,9 @@ h1, h2, h3, h4 {
 		font-size: 14px;
 		border-left: 5px solid #a94442;
 	}
+	.well {
+		border-radius: 0;
+	}
 	.anchor {
     display: block;
     position: relative;
@@ -193,24 +196,13 @@ h1, h2, h3, h4 {
 				}
 			}
 		}
-		.board{
-			&.row {
-				padding-bottom: 10px;
-			}
-		}
-		.journalists {
+		.journalists, .management, .board {
 			img {
 				width: 100%;
 			}
 			&.row {
 				padding-bottom: 20px;
 				margin-bottom: 20px;
-				border-bottom: 1px solid #ccc;
-			}
-			&.row:last-of-type {
-				padding-bottom: 0;
-				margin-bottom: 0;
-				border-bottom: 0px solid #ccc;
 			}
 		}
 	}

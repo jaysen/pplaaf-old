@@ -61,7 +61,7 @@ layout: default
 		<span class="anchor" id="journalists"></span>
 		<h2>Journalists</h2>
 		{% for journalist in site.journalists %}
-		<h3>{{ journalist.name }}</h3>
+		<h3>{{ journalist.name }} <small>{{ journalist.country }}</small></h3>
 		<div class="row journalists">
 			<div class="col-xs-12 col-sm-10">
 				<div class="journalist-content">{{ journalist.content }}</div>

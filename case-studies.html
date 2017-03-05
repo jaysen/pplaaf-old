@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="media">
+	<div class="container title">
+		<h1>Case studies</h1>
+		<div class="btn-group link-list" role="group">
+	  	<a style="border-left: none;" class="btn btn-default" href="#ghana">Who we are</a>
+	  	<a class="btn btn-default" href="#whatwedo-anchor">What we do</a>
+	  	<a class="btn btn-default" href="#whatwedo-anchor">What we do</a>
+	  	<a style="border-right: none;" class="btn btn-default" href="#whydifferent-anchor">Why we are different</a>
+		</div>
+	</div>
+	<div class="container content">
+		{% for study in site.studies %}
+		<span id="{{ study.small }}" class="anchor"></span>
+		<h3>{{ study.country }}</h3>
+		{{ study.content }}
+		{% endfor %}
+	</div>
+</div>

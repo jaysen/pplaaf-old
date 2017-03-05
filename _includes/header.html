@@ -23,8 +23,23 @@
           </ul>
         </li>
         <li><a href="send-us-info.html">Send us information</a></li>
-        <li><a href="#">In-depth</a></li>
-        <li><a href="#">Media</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Case studies <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            {% for study in site.studies %}
+            <li><a href="{{ study.url }}">{{ study.name }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Country profiles <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            {% for profile in site.profiles %}
+            <li><a href="{{ profile.url }}">{{ profile.country }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        <li><a href="media.html">Media</a></li>
         <li><a href="faq.html">FAQ</a></li>
       </ul>
     </div>

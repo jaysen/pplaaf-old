@@ -25,13 +25,29 @@ h1, h2, h3, h4 {
 
 .navbar {
 	margin-bottom: 0;
+	.btn-social {
+		padding-right: 0;
+	}
 	.navbar-brand {
-		padding: 0 10px;
+		padding: 0 2px;
 		img {
 			max-height: 50px;
 		}
 	}
 }
+
+@media (min-width: 768px) {
+	.navbar > .container {
+	    width: 95%;
+	}
+}
+
+@media (min-width: 1200px) {
+	.navbar > .container {
+	  width: 870px;
+	}
+}
+
 
 .front-page {
 		background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");

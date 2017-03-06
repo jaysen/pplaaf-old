@@ -27,8 +27,8 @@ Journalists, bloggers and other media workers are subject to persistent oppressi
 <div class="well">
 	<h3>Tips for Whistleblowers</h3>
 	<ul>
-		<li>Despite some reports to the contrary, Ethopia does not have a law to protect whistleblowers from retaliation in the workplace, or from civil and criminal liability.</li>
-		<li>Ethopia’s “whistleblower” law is inaccurately titled; it provides protections only to witnesses who supply information in investigations or prosecutions of major crimes. It does not apply to employees, nor to people who provide information that does not lead to major investigations or prosecutions.</li>
+		<li>Despite some reports to the contrary, Ethiopia does not have a law to protect whistleblowers from retaliation in the workplace, or from civil and criminal liability.</li>
+		<li>Ethiopia’s “whistleblower” law is inaccurately titled; it provides protections only to witnesses who supply information in investigations or prosecutions of major crimes. It does not apply to employees, nor to people who provide information that does not lead to major investigations or prosecutions.</li>
 		<li>The Federal Ethics and Anti-Corruption Commission (FEACC) accepts reports on corruption from the public, but it has no known formal role in protecting whistleblowers.</li>
 		<li> Reporting corruption is seen as highly risky, particularly when the disclosures concern high-ranking or politically connected figures.</li>
 	</ul>

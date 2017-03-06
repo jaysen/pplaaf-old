@@ -1,4 +1,5 @@
 ---
 name: Democracy Works
-image: dw.png 
+image: dw.png
+website: http://democracy.works/
 ---

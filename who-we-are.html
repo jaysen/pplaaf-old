@@ -16,7 +16,7 @@ layout: default
 			</div>
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
-				<img class="center-block" src="{{ site.baseurl }}/img/management/{{ member.image }}">
+				<img class="center-block" src="img/management/{{ member.image }}">
 				{% endif %}
 			</div>
 		</div>
@@ -37,7 +37,7 @@ layout: default
 			</div>
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
-				<img class="center-block" src="{{ site.baseurl }}/img/board/{{ member.image }}">
+				<img class="center-block" src="img/board/{{ member.image }}">
 				{% endif %}
 			</div>
 		</div>
@@ -46,16 +46,18 @@ layout: default
 		<h2>NGOs</h2>
 		<div class="row ngos">
 			{% for ngo in site.ngos %}
-			<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
-				<div class="ngo-box">
-					{% if ngo.image %}
-					<img class="center-block" src="{{ site.baseurl }}/img/ngo/{{ ngo.image }}">
-					{% endif %}
-					{% unless ngo.image %}
-					<div class="ngo-name">{{ ngo.name }}</div>
-					{% endunless %}
+			<a href="{{ ngo.website }}">
+				<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
+					<div class="ngo-box">
+						{% if ngo.image %}
+						<img class="center-block" src="img/ngo/{{ ngo.image }}">
+						{% endif %}
+						{% unless ngo.image %}
+						<div class="ngo-name">{{ ngo.name }}</div>
+						{% endunless %}
+					</div>
 				</div>
-			</div>
+			</a>
 			{% endfor %}
 		</div>
 		<span class="anchor" id="legal"></span>
@@ -63,6 +65,7 @@ layout: default
 		<p style="padding-bottom:30px;">PPLAAF has lawyers in Burkina Faso, Ghana, Senegal, Togo, Niger, Mauritania, Chad, Benin, Sierra Leone, South Africa, Namibia, Botswana, Morocco, Kenya, Tanzania, Democratic Republic of Congo, Sudan, and South Sudan</p>
 		<span class="anchor" id="journalists"></span>
 		<h2>Journalists</h2>
+		<p>Some journalists are not included in the list security reasons</p>
 		{% for journalist in site.journalists %}
 		<h3>{{ journalist.name }} <small>{{ journalist.country }}</small></h3>
 		<div class="row journalists">
@@ -71,7 +74,7 @@ layout: default
 			</div>
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if journalist.image %}
-				<img class="center-block" src="{{ site.baseurl }}/img/journalists/{{ journalist.image }}">
+				<img class="center-block" src="img/journalists/{{ journalist.image }}">
 				{% endif %}
 			</div>
 		</div>

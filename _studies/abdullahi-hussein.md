@@ -3,6 +3,8 @@ layout: study
 name: Abdullahi Hussein
 title: "Standing up to the 'President’s propaganda machine'"
 ---
+<img style="width: 100%;" class="center-block" src="img/studies/hussein.jpg">
+
 Abdullahi Hussein was a young man in his mid-20s when he was appointed to oversee the state-run TV channel CakaaraNews in Ethiopia’s Ogaden territory. He would be working directly for Somali Regional President Abdi Mohamoud Omar, who long had encouraged Hussein to go into politics.
 
 What Hussein thought would be the beginning of a rewarding career in public service ended with him fleeing to Sweden after witnessing and documenting a string of human rights atrocities. The 100 hours of film he managed to liberate from Ethiopia chronicles murder, rape, torture and politically motivated arrests.

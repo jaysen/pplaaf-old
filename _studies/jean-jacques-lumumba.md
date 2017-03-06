@@ -3,6 +3,8 @@ layout: study
 name: Jean-Jacques Lumumba
 title: Bank Revelations Weaken Kabila’s Hold on Power
 ---
+<img style="width: 100%;" class="center-block" src="img/studies/lumumba.jpg">
+
 If the teetering rule of President Joseph Kabila of the Democratic Republic of Congo eventually comes to an end, history will show that the courage of a young bank executive named Jean-Jacques Lumumba was among the tipping points.
 
 Lumumba revealed suspicious transactions between a Kabila family-controlled bank and organizations with close ties to the president. Before going public, Lumumba initially went to the bank’s pistol-toting CEO – reportedly Kabila’s adopted brother – who told him to stay quiet or face consequences. Lumumba was then forced to leave the country in June 2016. In October 2016, he resigned and gave his evidence to the Belgian press which published it the same month.

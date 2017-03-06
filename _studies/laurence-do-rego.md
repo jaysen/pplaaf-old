@@ -16,3 +16,6 @@ While few reinstated whistleblowers are able to fully regain their reputation in
 African Business named her one of “<a href="http://africanbusinessmagazine.com/company-profile/ecobank/15-ceos-watch-2015-laurence-rego/">15 CEOs to watch in 2015</a>.” The magazine wrote of do Rego, “A woman of conviction and principles, she fought for the integrity of the bank and took huge personal risks. She never doubted during the whole crisis that the fight was worth it and that she would win in the end. It was a victory for the whistleblower, who survived attempts to discredit her professional qualifications and emerged from the farrago with her integrity intact.”
 
 The following year, in May 2016, ETI appointed do Rego as Group Executive of Commercial Banking. The bank praised her for her role in expanding its reach from 12 to 40 countries and moving into East and Southern Africa.
+
+
+These cases, amongst others, are relevant to understand the situation of whislteblowers in Africa.

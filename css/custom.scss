@@ -52,6 +52,9 @@ h1, h2, h3, h4 {
 		background-size: cover;
 		min-height: 100vh;
 		background-position: center;
+		.logo {
+			margin-top: 40px;
+		}
 		.link-list {
 			font-family: 'Slabo 27px', serif;
 			position: absolute;
@@ -74,7 +77,6 @@ h1, h2, h3, h4 {
 		}
 		hr {
 			border-top-color: #333;
-			margin-top: -15px;
 		}
 		#title, #text {
 			text-align: center;
@@ -125,6 +127,7 @@ h1, h2, h3, h4 {
 
 	svg {
 		max-width: 100%;
+		max-width: 330px;
 		a {
 			cursor: pointer;
 		}

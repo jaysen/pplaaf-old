@@ -30,3 +30,5 @@ Lumumba also disclosed questionable transactions between BGFI and the National I
 Lumumba’s lineage adds gravity to his decision to challenge Kabila’s authority. He is a great-nephew of independence leader Patrice Lumumba, who was executed seven months after becoming Congo’s first democratically elected leader in 1960.
 
 Now Jean-Jacques Lumumba often receives threats from the DRC. His former employer insured that he will never find another job in a bank. When asked by PPLAAF if he regretted his act, Jean-Jacques simply replied: “of course not. I did it for my country and this new generation who wants to build the Rule of Law in the DRC”. 
+
+These cases, amongst others, are relevant to understand the situation of whislteblowers in Africa.

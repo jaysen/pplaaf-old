@@ -1,3 +1,0 @@
----
-name: Corruption Watch SA
----

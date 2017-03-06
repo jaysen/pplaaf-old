@@ -3,4 +3,4 @@ name: Elza Sandrine
 country: Burkina Faso
 image: sandrine.jpg
 ---
-Je suis Elza Sandrine Sawadogo, journaliste depuis 8 ans (2009). Je suis spécialisée en journalisme économique et financier (flux financiers illicites, fraudes, biens mal acquis, etc.).  De ce fait, je travaille depuis 2013 en tant que journaliste/secrétaire de rédaction à L’Economiste du Faso, le premier hebdomadaire économique du Burkina Faso. 
+Elsa Sandrine Zendwogo has been a journalist since 2009. She is specialised in financial journalism (illicit financial flows, frauds, ill gotten gains, etc.). She has been working since 2013 as a journalist and an editor at the Exonomiste du Faso, the first economist weekly in Burkina.

@@ -34,3 +34,5 @@ Subject to death threats of his own, Hussein left Ethiopia in August 2012 with t
 Hussein made it to Sweden, where his footage was used to produce the documentary, “Dictatorship Prisoners,” broadcast on Sveriges Television. In 2014 he received the <a href="http://ireport.cnn.com/docs/DOC-1132395">Anna Politkovskaya Award</a>, named for the Russian journalist and author of Putin’s Russia who was murdered in 2006.
 
 Hussein obtained political refugee status in Sweden, where he continues to live in fear for his life.
+
+These cases, amongst others, are relevant to understand the situation of whislteblowers in Africa.

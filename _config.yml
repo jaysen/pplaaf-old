@@ -12,13 +12,25 @@ exclude:
   - Gemfile.lock
 
 collections:
-  ngos:
-  board:
-  journalists:
-  management:
-  studies:
+  ngos-en:
+  board-en:
+  journalists-en:
+  management-en:
+  studies-en:
+  management-en:
+  profiles-en:
     output: true
     permalink: :name.html
-  profiles:
+  studies-en:
     output: true
     permalink: :name.html
+  ngos-fr:
+  board-fr:
+  journalists-fr:
+  management-fr:
+  profiles-fr:
+    output: true
+    permalink: fr/:name.html
+  studies-fr:
+    output: true
+    permalink: fr/:name.html

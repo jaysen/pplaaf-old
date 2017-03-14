@@ -1,6 +1,5 @@
 title: Plateforme de Protection des Lanceurs d'Alerte en Afrique
 email: info@pplaaf.org
-baseurl: 
 url: "https://pplaaf.org"
 
 # Build settings
@@ -13,13 +12,25 @@ exclude:
   - Gemfile.lock
 
 collections:
-  ngos:
-  board:
-  journalists:
-  management:
-  studies:
+  ngos-en:
+  board-en:
+  journalists-en:
+  management-en:
+  studies-en:
+  management-en:
+  profiles-en:
     output: true
     permalink: :name.html
-  profiles:
+  studies-en:
     output: true
     permalink: :name.html
+  ngos-fr:
+  board-fr:
+  journalists-fr:
+  management-fr:
+  profiles-fr:
+    output: true
+    permalink: fr/:name.html
+  studies-fr:
+    output: true
+    permalink: fr/:name.html

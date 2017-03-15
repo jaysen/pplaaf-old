@@ -15,19 +15,9 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         <li><a class="brand hidden-xs" href="/fr"><img src="{{ site.baseurl }}/img/logo2.png"></a></li>
-        <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Who we are <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="who-we-are.html">Management</a></li>
-            <li><a href="who-we-are.html#board">Advisory board</a></li>
-            <li><a href="who-we-are.html#ngos">NGOs</a></li>
-            <li><a href="who-we-are.html#legal">Legal</a></li>
-            <li><a href="who-we-are.html#journalists">Journalists</a></li>
-          </ul>
-        </li>
         <li><a href="send-us-info.html">Envoyez-nous des informations</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Case studies <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Études de cas<span class="caret"></span></a>
           <ul class="dropdown-menu">
             {% for study in site.studies-fr %}
             <li><a href="{{ study.url }}">{{ study.name }}</a></li>
@@ -35,16 +25,17 @@
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Country profiles <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Profils de pays <span class="caret"></span></a>
           <ul class="dropdown-menu">
             {% for profile in site.profiles-fr %}
             <li><a href="{{ profile.url }}">{{ profile.country }}</a></li>
             {% endfor %}
           </ul>
         </li>
-        <li><a href="tech.html">Tech</a></li>
-        <li><a href="media.html">Media</a></li>
+        <li><a href="tech.html">Technologie</a></li>
+        <li><a href="media.html">Médias</a></li>
         <li><a href="faq.html">FAQ</a></li>
+        <li><a href="/">English</a></li>
         <li><a class="btn-social" href="https://twitter.com/PPLAAF"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         <li><a class="btn-social" href="https://facebook.com/PPLAAF/"><i class="fa fa-facebook-official" aria-hidden="true"></i></a></li>
       </ul>

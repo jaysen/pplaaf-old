@@ -11,9 +11,11 @@ layout: default-en
 		{% for member in site.management-en %}
 		<h3>{{ member.name }} <small>{{ member.role }}</small></h3>
 		<div class="row management">
-			<div class="col-xs-12 col-sm-10">
-				<div class="management-content">{{ member.content }}</div>
-			</div>
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="management-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
 				<img class="center-block" src="/img/management/{{ member.image }}">
@@ -32,9 +34,11 @@ layout: default-en
 		{% for member in site.board-en %}
 		<h3>{{ member.name }}</h3>
 		<div class="row board">
-			<div class="col-xs-12 col-sm-10">
-				<div class="board-content">{{ member.bio }}</div>
-			</div>
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="board-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
 				<img class="center-block" src="/img/board/{{ member.image }}">
@@ -69,9 +73,11 @@ layout: default-en
 		{% for journalist in site.journalists-en %}
 		<h3>{{ journalist.name }} <small>{{ journalist.country }}</small></h3>
 		<div class="row journalists">
-			<div class="col-xs-12 col-sm-10">
-				<div class="journalist-content">{{ journalist.content }}</div>
-			</div>
+			{% unless journalist.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="journalist-content">{{ journalist.content }}</div>
+				</div>
+			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if journalist.image %}
 				<img class="center-block" src="/img/journalists/{{ journalist.image }}">

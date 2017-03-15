@@ -8,12 +8,14 @@ layout: default-fr
 	<div class="container content">
 		<span class="anchor" id="management"></span>
 		<h2>Management</h2>
-		{% for member in site.management-en %}
+		{% for member in site.management-fr %}
 		<h3>{{ member.name }} <small>{{ member.role }}</small></h3>
 		<div class="row management">
-			<div class="col-xs-12 col-sm-10">
-				<div class="management-content">{{ member.content }}</div>
-			</div>
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="management-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
 				<img class="center-block" src="/img/management/{{ member.image }}">
@@ -29,12 +31,14 @@ layout: default-fr
 
 		<span class="anchor" id="board"></span>
 		<h2>Advisory board</h2>
-		{% for member in site.board-en %}
+		{% for member in site.board-fr %}
 		<h3>{{ member.name }}</h3>
 		<div class="row board">
-			<div class="col-xs-12 col-sm-10">
-				<div class="board-content">{{ member.bio }}</div>
-			</div>
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="board-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if member.image %}
 				<img class="center-block" src="/img/board/{{ member.image }}">
@@ -45,7 +49,7 @@ layout: default-fr
 		<span class="anchor" id="ngos"></span>
 		<h2>NGOs</h2>
 		<div class="row ngos">
-			{% for ngo in site.ngos-en %}
+			{% for ngo in site.ngos-fr %}
 			<a href="{{ ngo.website }}">
 				<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
 					<div class="ngo-box">
@@ -66,12 +70,14 @@ layout: default-fr
 		<span class="anchor" id="journalists"></span>
 		<h2>Journalists</h2>
 		<p>Some journalists are not included for security reasons</p>
-		{% for journalist in site.journalists-en %}
+		{% for journalist in site.journalists-fr %}
 		<h3>{{ journalist.name }} <small>{{ journalist.country }}</small></h3>
 		<div class="row journalists">
-			<div class="col-xs-12 col-sm-10">
-				<div class="journalist-content">{{ journalist.content }}</div>
-			</div>
+			{% unless journalist.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="journalist-content">{{ journalist.content }}</div>
+				</div>
+			{% endunless %}
 			<div class="col-xs-12 col-sm-2 hidden-xs">
 				{% if journalist.image %}
 				<img class="center-block" src="/img/journalists/{{ journalist.image }}">

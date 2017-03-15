@@ -1,36 +1,35 @@
 ---
 layout: study-fr
 name: Jean-Jacques Lumumba
-title: Bank Revelations Weaken Kabila’s Hold on Power
+title: Des révélations bancaires qui fragilisent le régime de Kabil
 ---
+
 <img style="width: 100%;" class="center-block" src="/img/studies/lumumba.jpg">
 
-If the teetering rule of President Joseph Kabila of the Democratic Republic of Congo eventually comes to an end, history will show that the courage of a young bank executive named Jean-Jacques Lumumba was among the tipping points.
+Si le régime déjà partiellement affaibli du Président de la République démocratique du Congo Joseph Kabila cède un jour, l’histoire montrera que le courage déterminant d’un jeune cadre bancaire, Jean-Jacques Lumumba, y est pour quelque chose.
 
-Lumumba revealed suspicious transactions between a Kabila family-controlled bank and organizations with close ties to the president. Before going public, Lumumba initially went to the bank’s pistol-toting CEO – reportedly Kabila’s adopted brother – who told him to stay quiet or face consequences. Lumumba was then forced to leave the country in June 2016. In October 2016, he resigned and gave his evidence to the Belgian press which published it the same month.
+Jean-Jacques Lumumba a révélé l’existence d’opérations douteuses réalisées entre une banque congolaise dirigée par des proches de la famille Kabila et des sociétés, elles aussi contrôlées par des proches du Président. Avant de révéler ses informations publiquement, Lumumba tente d’alerter en interne le directeur général de la banque, par ailleurs frère adoptif du Président Kabila. Pour seule réponse, il reçoit l’instruction de se taire ou d’assumer la responsabilité de ces opérations. Sous la pression, Jean-Jacques Lumumba quitte le pays en juin 2016. Puis en octobre il démissionne. Craignant pour sa sécurité, il donne ses preuves à la presse belge qui les publie le même mois.
 
-Looking back, Lumumba says his experiences reflect the harsh realities of politics and daily life in the DRC. 
+Aujourd’hui, Lumumba explique que son histoire n’est autre que le reflet des dures réalités caractérisant la vie politique et le quotidien en République démocratique du Congo. 
 
-“The greed of some politicians is so huge that they have taken Congo hostage. People are dying and are being tortured. Many cannot speak anymore,” <a href="http://www.dw.com/en/drc-president-joseph-kabila-reformer-or-corrupt-authoritarian/a-36935441">he told Deutsche Welle</a>. “We have returned to dictatorship because it is all about sustaining power.”
+« La cupidité de certains politiques est telle que le peuple congolais se retrouve pris en otage. Les gens meurent, des personnes sont victimes de torture. Beaucoup ne sont plus libres de s’exprimer », a expliqué Jean-Jacques Lumumba à la [Deutsche Welle](http://www.dw.com/en/drc-president-joseph-kabila-reformer-or-corrupt-authoritarian/a-36935441). « Nous sommes retombés dans une dictature parce que tout ce qui compte pour la classe politique aujourd’hui, c’est de se maintenir au pouvoir. »
 
-Lumumba’s disclosures came at a tense moment for the DRC. Kabila’s second five-year term as president expired on December 19 but he refused to step aside. Street clashes between protesters and police left at least 50 people dead. 
+Les révélations de Lumumba sont apparues dans un contexte déjà tendu en République démocratique du Congo. Son second quinquennat à la Présidence expirant le 19 décembre 2016, Joseph Kabila a refusé de passer la main, provoquant une vague de protestations et d’affrontements avec les forces policières dans lesquels 50 personnes ont perdu la vie. 
 
-In the months leading up to the end of Kabila’s term, revelations of his family’s extensive business and financial holdings fueled the opposition.
+Dans les mois précédant la fin de son mandat présidentiel, l’opposition avait été attisée par des révélations démontrant de multiples prises d’intérêts de la famille Kabila dans les secteurs commerciaux et financiers.
 
-Hundreds of thousands of corporate records collected by <a href="https://www.bloomberg.com/news/features/2016-12-15/with-his-family-fortune-at-stake-congo-president-kabila-digs-in">Bloomberg News</a> revealed that Kabila’s wife, children and siblings control more than 120 permits to dig for gold, diamonds, copper, cobalt and other minerals. Family members also have interests in banks, farms, fuel, airlines, construction, hotels, pharmaceuticals, travel agencies, nightclubs and a rocket to carry a rat into space.
-	
-At the core of Kabila’s financial empire is the Banque Gabonaise et Française Internationale RDC, a branch of Gabon-based Groupe BGFI Bank SA. Lumumba was hired as the bank’s head of credit in 2014, and soon after he discovered several questionable deals. 
+Des centaines de milliers de documents d’entreprises obtenus et analysés par l’agence [Bloomberg](https://www.bloomberg.com/news/features/2016-12-15/with-his-family-fortune-at-stake-congo-president-kabila-digs-in) révèlent que la femme du président Kabila, ses enfants, ainsi qu’une partie de la fratrie contrôlent plus de 120 permis d’extraction d’or, de diamants, de cuivre, de cobalt et d’autres minerais. La famille détient par ailleurs des intérêts dans le secteur bancaire, l’agriculture, la distribution de carburant, le transport aérien, la construction, l’hôtellerie, l’industrie pharmaceutique, les agences de voyages, les boîtes de nuit ou encore la construction d’une fusée chargée d’envoyer un rat dans l’espace.
 
-Among them was a $43 million loan – which reportedly was not repaid – to a food distribution company run by business partners of Kabila. Heading the bank at the time was Francis Selemani Mtwale, reportedly Kabila’s adopted brother. 
+Au sommet de l’empire économique construit par Kabila et son entourage, se trouve la Banque Gabonaise et Française Internationale RDC, une filiale du groupe gabonais BGFI Bank SA. Peu de temps après son embauche en 2014 en tant que cadre dirigeant de la branche crédit au sein de la BGFI, Jean-Jacques Lumumba découvre l’existence de plusieurs transactions suspectes.
 
-When Lumumba questioned Selemani about the loan, Bloomberg reported, he opened his jacket to expose a concealed handgun and shouted, “Are you making problems for me? You know I will deal with you if I have to. Just do as I tell you.” 
+Parmi ces transactions, figure un prêt de de 43 millions de dollars consenti à une société d’importation alimentaire dirigée par l’un des proches de Kabila et dont le montant n’a jamais été remboursé. Au moment de la réalisation de cette opération, c’est Francis Selemani Mtwale, le frère adoptif de Kabila, qui occupe le poste de Directeur général de la BGFI.
 
-Lumumba also disclosed questionable transactions between BGFI and the National Independent Electoral Commission, whose accounts are kept at the bank. Despite being flagged by the central bank for unpaid debts to suppliers, the Commission received $7.5 million in cash from BGFI while also paying $2.4 million in unexplained fees to the bank, according to Bloomberg.
+L’agence Bloomberg rapporte que lorsque Lumumba interroge Francis Selemani à propos de cette opération, ce dernier laisse Lumumba entrevoir une arme à feu dissimulée sous sa veste et le menace : « Tu cherches à m’attirer des ennuis ? S’il le faut, tu sais que je n’hésiterai pas à m’occuper de toi. Contente-toi de faire ce que je te dis de faire ». 
 
-“That was the beginning of my problems,” <a href="http://www.lemonde.fr/afrique/article/2016/12/22/jean-jacques-lumumba-banquier-congolais-exile-et-denonciateur-du-systeme-kabila_5053068_3212.html">Lumumba told Le Monde</a>. “These loans and withdrawals were illegal.”
+Les documents de Lumumba révèlent également l’existence de transactions suspectes entre la BGFI et la Commission électorale nationale indépendante, dont les comptes sont ouverts à la BGFI. L’agence Bloomberg rapporte que bien qu’elle fasse déjà l’objet d’un signalement de la banque centrale pour non-remboursement de dettes à ses fournisseurs, la Commission a perçu 7,5 millions de dollars en liquide de la BGFI. Parallèlement à cette opération, la Commission a versé à la banque des frais non-justifiés d’un montant 2,4 millions de dollars.
 
-Lumumba’s lineage adds gravity to his decision to challenge Kabila’s authority. He is a great-nephew of independence leader Patrice Lumumba, who was executed seven months after becoming Congo’s first democratically elected leader in 1960.
+« Cela a été le début de mes problèmes », explique Lumumba dans  [Le Monde](http://www.lemonde.fr/afrique/article/2016/12/22/jean-jacques-lumumba-banquier-congolais-exile-et-denonciateur-du-systeme-kabila_5053068_3212.html). « Ces prêts et ces retraits étaient illégaux ».
 
-Now Jean-Jacques Lumumba often receives threats from the DRC. His former employer insured that he will never find another job in a bank. When asked by PPLAAF if he regretted his act, Jean-Jacques simply replied: “of course not. I did it for my country and this new generation who wants to build the Rule of Law in the DRC”. 
+L’histoire familiale de Jean-Jacques Lumumba confère à sa décision de s’opposer à l’autorité de Kabila une gravité particulière. Il est le petit-neveu du héros de l’indépendance congolaise Patrice Lumumba, assassiné en 1960, sept mois après son élection en tant que premier dirigeant démocratiquement élu.
 
-These cases, amongst others, are relevant to understand the situation of whislteblowers in Africa.
+Aujourd’hui, Jean-Jacques Lumumba reçoit régulièrement des menaces depuis la RDC. Son ancien employeur lui a assuré que jamais il ne retrouverait un travail dans le secteur bancaire. Quand interrogé par PPLAAF s’il regrettait son acte, Jean-Jacques Lumumba répondit simplement : « bien sûr que non. Je l’ai fait pour mon pays et cette nouvelle génération qui veut véritablement construire un Etat de droit au Congo ».

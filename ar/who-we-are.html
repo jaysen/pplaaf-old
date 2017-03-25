@@ -1,0 +1,89 @@
+---
+layout: default-ar
+---
+<div class="who-we-are">
+	<div class="container title">
+		<h1>Who we are</h1>
+	</div>
+	<div class="container content">
+		<span class="anchor" id="management"></span>
+		<h2>Management</h2>
+		{% for member in site.management-en %}
+		<h3>{{ member.name }} <small>{{ member.role }}</small></h3>
+		<div class="row management">
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="management-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if member.image %}
+				<img class="center-block" src="/img/management/{{ member.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+
+		<h2>Staff</h2>
+		<p>The Director of PPLAAF is South Africa-based Khadija Sharife. Khadija Sharife is an award-winning investigative journalist, researcher and editor. She is the Africa editor of OCCRP, author of Tax Us If You Can: Africa, board member of Finance Uncovered and fellow with the World Policy Institute. Previously, she was the editor at the African Network of Centers for Investigative Reporting (ANCIR). Her work has been presented at a number of forums including OECD, AU, Pan-African Parliaments among other platforms. She holds a master of financial law and is based in South Africa.</p>
+
+		<p style="padding-bottom:30px;">Senegal-based Charles Sanches, an activist, will help to coordinate and direct the center’s internal and external functions.</p>
+
+		<span class="anchor" id="board"></span>
+		<h2>Advisory board</h2>
+		{% for member in site.board-en %}
+		<h3>{{ member.name }}</h3>
+		<div class="row board">
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="board-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if member.image %}
+				<img class="center-block" src="/img/board/{{ member.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+		<span class="anchor" id="ngos"></span>
+		<h2>NGOs</h2>
+		<div class="row ngos">
+			{% for ngo in site.ngos-en %}
+			<a href="{{ ngo.website }}">
+				<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
+					<div class="ngo-box">
+						{% if ngo.image %}
+						<img class="center-block" src="/img/ngo/{{ ngo.image }}">
+						{% endif %}
+						{% unless ngo.image %}
+						<div class="ngo-name">{{ ngo.name }}</div>
+						{% endunless %}
+					</div>
+				</div>
+			</a>
+			{% endfor %}
+		</div>
+		<span class="anchor" id="legal"></span>
+		<h2>Legal</h2>
+		<p style="padding-bottom:30px;">PPLAAF has lawyers in Burkina Faso, Ghana, Senegal, Togo, Niger, Mauritania, Chad, Benin, Sierra Leone, South Africa, Namibia, Botswana, Morocco, Kenya, Tanzania, Democratic Republic of Congo, Sudan, and South Sudan</p>
+		<span class="anchor" id="journalists"></span>
+		<h2>Journalists</h2>
+		<p>Some journalists are not included for security reasons</p>
+		{% for journalist in site.journalists-en %}
+		<h3>{{ journalist.name }} <small>{{ journalist.country }}</small></h3>
+		<div class="row journalists">
+			{% unless journalist.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="journalist-content">{{ journalist.content }}</div>
+				</div>
+			{% endunless %}
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if journalist.image %}
+				<img class="center-block" src="/img/journalists/{{ journalist.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>

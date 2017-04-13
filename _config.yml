@@ -34,3 +34,13 @@ collections:
   studies-fr:
     output: true
     permalink: fr/:name.html
+    # ngos-fr:
+  board-pt:
+  # journalists-fr:
+  # management-fr:
+  # profiles-fr:
+  #   output: true
+  #   permalink: fr/:name.html
+  # studies-fr:
+  #   output: true
+  #   permalink: fr/:name.html

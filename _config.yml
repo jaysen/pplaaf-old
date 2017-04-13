@@ -36,7 +36,7 @@ collections:
     permalink: fr/:name.html
     # ngos-fr:
   board-pt:
-  # journalists-fr:
+  journalists-pt:
   # management-fr:
   # profiles-fr:
   #   output: true

@@ -6,6 +6,10 @@ h1, h2, h3, h4 {
 	font-family: 'Slabo 27px', serif;
 }
 
+p {
+	text-align: justify;
+}
+
 @media (min-width: 1200px) {
 	.container {
 	  width: 850px;

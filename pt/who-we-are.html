@@ -1,0 +1,103 @@
+---
+layout: default-pt
+---
+<div class="who-we-are">
+	<div class="container title">
+		<h1>Quem somos</h1>
+		<a class="language btn btn-default" href="/who-we-are.html">English</a>
+	</div>
+	<div class="container content">
+		<span class="anchor" id="management"></span>
+		<h2>Gestão</h2>
+		{% for member in site.management-pt %}
+		<h3>{{ member.name }} <small>{{ member.role }}</small></h3>
+		<div class="row management">
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="management-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if member.image %}
+				<img class="center-block" src="/img/management/{{ member.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+
+		<h2>Equipa</h2>
+		<div class="row management">
+			<div class="col-xs-12 col-sm-10">
+				<div class="management-content">A diretora da PPLAAF é a sul-africana Khadija Sharife. Khadija Sharife é uma jornalista de investigação e editora premiada. Ela é a editora para África do OCCRP, autora do livro “Tax Us If You Can: Africa”, membro do conselho de administração da organização Finance Uncovered e fellow do World Policy Institute. Anteriormente, foi editora da African Network of Centers for Investigative Reporting (Rede Africana de Centros de Jornalismo de Investigação) (ANCIR). O seu trabalho tem sido apresentado em vários fóruns, incluindo a OCDE, a UA e os Parlamentos Pan-Africanos, entre outras plataformas. Ela é mestre em Direito financeiro e trabalha a partir da África do Sul. </div>
+			</div>
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				<img class="center-block" src="/img/management/khadija.png">
+			</div>
+		</div>
+		<div class="row management">
+			<div class="col-xs-12 col-sm-10">
+				<div class="management-content">O ativista senegalês Charles Sanches ajudará a coordenar e dirigir as funções internas e externas do centro.</div>
+			</div>
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				<img class="center-block" src="/img/management/charles.jpg">
+			</div>
+		</div>
+
+		<span class="anchor" id="board"></span>
+		<h2>Conselho consultivo</h2>
+		{% for member in site.board-pt %}
+		<h3>{{ member.name }}</h3>
+		<div class="row board">
+			{% unless member.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="board-content">{{ member.content }}</div>
+				</div>
+			{% endunless %}
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if member.image %}
+				<img class="center-block" src="/img/board/{{ member.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+		<span class="anchor" id="ngos"></span>
+		<h2>ONGs</h2>
+		<div class="row ngos">
+			{% for ngo in site.ngos-en %}
+			<a href="{{ ngo.website }}">
+				<div class="col-xs-6 col-sm-4 col-md-3 ngo-wrapper">
+					<div class="ngo-box">
+						{% if ngo.image %}
+						<img class="center-block" src="/img/ngo/{{ ngo.image }}">
+						{% endif %}
+						{% unless ngo.image %}
+						<div class="ngo-name">{{ ngo.name }}</div>
+						{% endunless %}
+					</div>
+				</div>
+			</a>
+			{% endfor %}
+		</div>
+		<span class="anchor" id="legal"></span>
+		<h2>Jurídico</h2>
+		<p style="padding-bottom:30px;">A PPLAAF tem advogados em Burkina Faso, Gana, Senegal, Togo, Níger, Mauritânia, Chade, Benin, Serra Leoa, África do Sul, Namíbia, Botswana, Marrocos, Quénia, Tanzânia, República Democrática do Congo, Sudão e Sudão do Sul </p>
+		<span class="anchor" id="journalists"></span>
+		<h2>Jornalistas</h2>
+		<p>Alguns jornalistas não estão aqui incluídos por razões de segurança.</p>
+		{% for journalist in site.journalists-pt %}
+		<h3>{{ journalist.name }} <small>{{ journalist.country }}</small></h3>
+		<div class="row journalists">
+			{% unless journalist.content-missing %}
+				<div class="col-xs-12 col-sm-10">
+					<div class="journalist-content">{{ journalist.content }}</div>
+				</div>
+			{% endunless %}
+			<div class="col-xs-12 col-sm-2 hidden-xs">
+				{% if journalist.image %}
+				<img class="center-block" src="/img/journalists/{{ journalist.image }}">
+				{% endif %}
+			</div>
+		</div>
+		{% endfor %}
+	</div>
+</div>

@@ -1,7 +1,7 @@
 ---
 layout: study-fr
 name: Jean-Jacques Lumumba
-title: Des révélations bancaires qui fragilisent le régime de Kabil
+title: Des révélations bancaires qui fragilisent le régime de Kabila
 ---
 
 <img style="width: 100%;" class="center-block" src="/img/studies/lumumba.jpg">

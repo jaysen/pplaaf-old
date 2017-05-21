@@ -110,6 +110,23 @@ p {
 				}
 			}
 		}
+		.link-list-btns {
+			font-family: 'Slabo 27px', serif;
+			position: absolute;
+			bottom: 0;
+			a {
+				color: #fff;
+				border-radius: 4px 4px 0 0;
+				border-top: none;
+				border-color: #fff;
+				font-size: 16px;
+				background-color: #a94442;
+				background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+				&:hover {
+					border-bottom-color: #a55856;
+				}
+			}
+		}		
 		.row {
 			margin-top: 20vh;
 		}
@@ -137,6 +154,9 @@ p {
 
 	#whatwedo {
 		text-align: center;
+		h1 {
+			margin: 0px -15px 20px -15px;
+		}
 		h3 {
 			margin-top: 0;
 		}
@@ -151,12 +171,12 @@ p {
 		}
 		i {
 			font-size: 34px;
-	    color: #FFFFFF;
-	    position: absolute;
-	    left: 0;
-	    right: 0;
-	    top: 13px;
-	    text-align: center;
+			color: #FFFFFF;
+			position: absolute;
+			left: 0;
+			right: 0;
+			top: 13px;
+			text-align: center;
 		}
 		.what-content {
 			text-align: center;

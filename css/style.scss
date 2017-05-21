@@ -154,6 +154,9 @@ p {
 
 	#whatwedo {
 		text-align: center;
+		h1 {
+			margin: 0px -15px 20px -15px;
+		}
 		h3 {
 			margin-top: 0;
 		}
@@ -168,12 +171,12 @@ p {
 		}
 		i {
 			font-size: 34px;
-	    color: #FFFFFF;
-	    position: absolute;
-	    left: 0;
-	    right: 0;
-	    top: 13px;
-	    text-align: center;
+			color: #FFFFFF;
+			position: absolute;
+			left: 0;
+			right: 0;
+			top: 13px;
+			text-align: center;
 		}
 		.what-content {
 			text-align: center;

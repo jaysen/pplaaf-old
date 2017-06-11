@@ -1300,6 +1300,7 @@ layout: default-en
 			  <p>
 			  PLAAF provides the following services for whistleblowers, NGOs, media and governments:
 			  </p>
+			  <br>
 			</div>
 			<div class="row">
 			  <div class="col-md-3">
@@ -1349,8 +1350,23 @@ layout: default-en
 			</div>
 		</section>
 
-		<section id="whydifferent">
-			<span id="whydifferent-anchor" class="anchor"></span>
+		<section id="latestnews">
+			<span id="latestnews-anchor" class="anchor"></span>
+			<h1>Latest Articles</h1>
+            {% for post in site.posts %}
+            <div class="post-block">
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <h6>{{ post.date  | date_to_long_string }}. {{ post.author }}
+                {% if post.introduction != blank %}
+                    <br>{{ post.introduction }}
+                {% endif %}</h6>
+                <p>{{ post.excerpt}}</p>
+                {% if post.excerpt != post.content %}
+                    <a class="btn btn-default" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+                {% endif %}
+            </div>
+            <hr>
+            {% endfor %}
 		</section>
 
 	</div>

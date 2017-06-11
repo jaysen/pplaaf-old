@@ -9,7 +9,7 @@ image: githongo.jpg
 excerpt: A group of activists, lawyers and artists have launched a platform to help citizen watchdogs in often dangerous situations
 ---
 
-![image-title-here](/img/posts/githongo.jpg){:class="img-responsive"}
+![John Githongo](/img/posts/githongo.jpg){:class="img-responsive"}
 <br>
 In many African countries, the secretive and self-serving deeds of political and business elites have come to light thanks only to whistleblowers.
 

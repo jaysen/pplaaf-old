@@ -1,0 +1,31 @@
+--- 
+layout: default-en 
+---
+<div class="media">
+    <div class="container title">
+        <h1>News and Media</h1>
+        <a class="language btn btn-default" href="/fr/media.html">Français</a>
+        <a class="btn btn-default language" href="/pt/media.html">Português</a>
+        <a class="language btn btn-default" href="/ar/media.html">العربية</a>
+    </div>
+
+    <div class="container content">
+        <section class="latest-posts">
+            <h1>Latest Articles</h1>
+            {% for post in site.posts %}
+            <div class="post-block">
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <h6>{{ post.date  | date_to_long_string }}. {{ post.author }}
+                {% if post.introduction != blank %}
+                    <br>{{ post.introduction }}
+                {% endif %}</h6>
+                <p>{{ post.excerpt}}</p>
+                {% if post.excerpt != post.content %}
+                    <a class="btn btn-default" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+                {% endif %}
+            </div>
+            <hr>
+            {% endfor %}
+        </section>
+    </div>
+</div>

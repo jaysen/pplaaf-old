@@ -1,0 +1,21 @@
+---
+layout: default-en
+---
+
+<div class="media">
+    <div class="container title">
+        <h2>{{ page.title }}</h2>
+        <h3>{{ page.date | date_to_string }}</h3>
+    </div>
+
+    <div class="container content">
+      <section class="post--content">
+        </br>
+        <h4>{{ page.introduction }}</h4>
+        <hr>
+
+        {{ content }}
+      </section>
+    </div>
+</div>
+

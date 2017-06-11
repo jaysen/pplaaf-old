@@ -1354,7 +1354,10 @@ layout: default-en
 			<span id="latestnews-anchor" class="anchor"></span>
 			<h1>Latest Articles</h1>
             {% for post in site.posts %}
-            <div class="post-block">
+            <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
+				{% if post.image %}
+					<img class="post-image img-responsive" src="/img/posts/{{ post.image }}">
+				{% endif %}
                 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
                 <h6>{{ post.date  | date_to_long_string }}. {{ post.author }}
                 {% if post.introduction != blank %}
@@ -1364,8 +1367,8 @@ layout: default-en
                 {% if post.excerpt != post.content %}
                     <a class="btn btn-default" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
                 {% endif %}
+				<br><br>
             </div>
-            <hr>
             {% endfor %}
 		</section>
 

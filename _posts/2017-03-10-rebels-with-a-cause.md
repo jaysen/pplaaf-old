@@ -1,19 +1,22 @@
 ---
 layout: post
-title: My Second Post
-author: Jaysen Naidoo
-introduction: Article first appeared in <a href="https://www.theguardian.com/world/2017/mar/10/rebels-with-a-cause-africas-whistleblowers-need-urgent-protection">The Guardian</a>
+title: Rebels with a cause - Africa's whistleblowers need urgent protection
+author: Baltasar Garzón and William Bourdon
+introduction: This article first appeared in <a href="https://www.theguardian.com/world/2017/mar/10/rebels-with-a-cause-africas-whistleblowers-need-urgent-protection">The Guardian</a>
 categories: test uncategorised
 excerpt_separator: <!--more-->
-
+image: githongo.jpg
+excerpt: A group of activists, lawyers and artists have launched a platform to help citizen watchdogs in often dangerous situations
 ---
 
+![image-title-here](/img/posts/githongo.jpg){:class="img-responsive"}
+<br>
 In many African countries, the secretive and self-serving deeds of political and business elites have come to light thanks only to whistleblowers.
 
 In Kenya, former journalist John Githongo exposed fraudulent military equipment deals and other swindles in a series of explosive exposures; Abdullahi Hussein secretly filmed human rights atrocities in Ethiopia; Jean-Jacques Lumumba, a Congolese banker, shed light on serious financial embezzlement involving the ruling Kabila family.
-
-Not just in Africa but worldwide, citizens are becoming aware of the dark and oppressive political, economic and financial powers being exercised over their daily lives. Thanks to the revelations of whistleblowers, we can better fight back.
 <!--more-->
+Not just in Africa but worldwide, citizens are becoming aware of the dark and oppressive political, economic and financial powers being exercised over their daily lives. Thanks to the revelations of whistleblowers, we can better fight back.
+
 But as the source of this information, whistleblowers are often the first victims of their own disclosures. High-security prisons, forced exile, endless legal proceedings, death threats and other reprisals turn these defenders of the public interest into public enemies.
 
 Despite the rising value of whistleblower disclosures, a vast majority of countries have weak or no specific rights protecting them. Africa is no exception: only seven of 54 countries have passed whistleblower laws, compared with 11 of 28 EU countries. In 2016, six journalists were killed and 41 languished in prisons across sub-Saharan Africa, according to the Committee to Protect Journalists.

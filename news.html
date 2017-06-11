@@ -10,18 +10,18 @@ layout: default-en
     </div>
 
     <div class="container content">
-        <section class="latest-posts">
+		<section id="latestnews">
 			<span id="latestnews-anchor" class="anchor"></span>
 			<h1>Latest Articles</h1>
             {% for post in site.posts %}
             <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
 				{% if post.image %}
-					<img class="post-image img-responsive" src="/img/posts/{{ post.image }}">
+					<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>
 				{% endif %}
                 <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-                <h6>{{ post.date  | date_to_long_string }}. {{ post.author }}
-                {% if post.introduction != blank %}
-                    <br>{{ post.introduction }}
+                <h6>{{ post.author }} {{ post.date  | date_to_long_string }} 
+                {% if post.origin %}
+                    <br>{{ post.origin }}
                 {% endif %}</h6>
                 <p>{{ post.excerpt}}</p>
                 {% if post.excerpt != post.content %}
@@ -30,6 +30,6 @@ layout: default-en
 				<br><br>
             </div>
             {% endfor %}
-        </section>
+		</section>
     </div>
 </div>

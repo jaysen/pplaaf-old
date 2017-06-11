@@ -1,18 +1,17 @@
 ---
 layout: post
 title: Rebels with a cause - Africa's whistleblowers need urgent protection
-author: Baltasar Garzón and William Bourdon
-introduction: This article first appeared in <a href="https://www.theguardian.com/world/2017/mar/10/rebels-with-a-cause-africas-whistleblowers-need-urgent-protection">The Guardian</a>
-categories: test uncategorised
+author: by Baltasar Garzón and William Bourdon -
+origin: This article first appeared in <a href="https://www.theguardian.com/world/2017/mar/10/rebels-with-a-cause-africas-whistleblowers-need-urgent-protection">The Guardian</a>
 excerpt_separator: <!--more-->
 image: githongo.jpg
 excerpt: A group of activists, lawyers and artists have launched a platform to help citizen watchdogs in often dangerous situations
+introduction: In many African countries, the secretive and self-serving deeds of political and business elites have come to light thanks only to whistleblowers.
 ---
 
-![John Githongo](/img/posts/githongo.jpg){:class="img-responsive"}
-<br>
-In many African countries, the secretive and self-serving deeds of political and business elites have come to light thanks only to whistleblowers.
+<img class="img-responsive img-post center-block" src="/img/posts/githongo.jpg">
 
+<br>
 In Kenya, former journalist John Githongo exposed fraudulent military equipment deals and other swindles in a series of explosive exposures; Abdullahi Hussein secretly filmed human rights atrocities in Ethiopia; Jean-Jacques Lumumba, a Congolese banker, shed light on serious financial embezzlement involving the ruling Kabila family.
 <!--more-->
 Not just in Africa but worldwide, citizens are becoming aware of the dark and oppressive political, economic and financial powers being exercised over their daily lives. Thanks to the revelations of whistleblowers, we can better fight back.
@@ -35,4 +34,7 @@ Via its website, the PPLAAF provides a transmission system and a secure telephon
 
 Because as Georges Bernanos, the French author and first world war soldier, wrote: “It takes a lot of rebels to make a free people.” Whistleblowers may be the rebels Africa has been waiting for.
 
-Human rights lawyers William Bourdon of Paris and Baltasar Garzón of Madrid are founders of the Platform to Protect Whistleblowers in Africa (PPLAAF). The organisation was launched in Dakar, Senegal, this week
+
+--------
+
+*Human rights lawyers William Bourdon of Paris and Baltasar Garzón of Madrid are founders of the Platform to Protect Whistleblowers in Africa (PPLAAF). The organisation was launched in Dakar, Senegal, this week*

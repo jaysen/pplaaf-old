@@ -11,8 +11,15 @@ layout: default-en
     <div class="container content">
       <section class="post--content">
         </br>
-        <h4>{{ page.introduction }}</h4>
-        <hr>
+        {% if page.origin %}
+          <h5>{{ page.origin }}</h5>
+          <hr>
+				{% endif %}
+                {% if page.introduction %}
+          <h3>{{ page.introduction }}</h3>
+          <hr>
+				{% endif %}
+
 
         {{ content }}
       </section>

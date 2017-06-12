@@ -64,7 +64,7 @@ p {
 
 @media (min-width: 1200px) {
 	.navbar > .container {
-	  width: 900px;
+	  width: 950px;
 	}
 	.navbar-nav > li > a {
 		padding: 15px 12px;
@@ -306,7 +306,7 @@ p {
 }
 
 .post-block {
-	padding: 25px;
+	min-height: 520px;
 }
 
 .post-blockquote {

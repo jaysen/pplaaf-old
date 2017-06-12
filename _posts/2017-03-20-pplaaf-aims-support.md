@@ -1,11 +1,12 @@
 ---
 layout: post
 title: William Bourdon - PLAAF aims to support whistle-blowers
-origin: This article appeared on <a href="http://www.aljazeera.com/indepth/features/2017/03/william-bourdon-plaaf-aims-support-whistle-blowers-170330142827930.html">Aljazeera.com</a>
+origin: This article appeared on <a href="http://www.aljazeera.com/indepth/features/2017/03/william-bourdon-plaaf-aims-support-whistle-blowers-170330142827930.html" target="_blank">Aljazeera.com</a>
 excerpt_separator: <!--more-->
 image: bourdon.jpg
 excerpt: Whistle-blowers in Africa under threat have little legal protection, says lawyer representing Assange, Snowden and more.
 introduction: Whistle-blowers in Africa under threat have little legal protection, says lawyer representing Assange, Snowden and more.
+tag: featured
 ---
 <img class="img-responsive img-post center-block" src="/img/posts/bourdon.jpg">
 <br>

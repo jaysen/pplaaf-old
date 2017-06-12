@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Rebels with a cause - Africa's whistleblowers need urgent protection
-author: by Baltasar Garzón and William Bourdon -
-origin: This article first appeared in <a href="https://www.theguardian.com/world/2017/mar/10/rebels-with-a-cause-africas-whistleblowers-need-urgent-protection">The Guardian</a>
+author: by William Bourdon -
+origin: This article first appeared in <a href="https://www.theguardian.com/world/2017/mar/10/rebels-with-a-cause-africas-whistleblowers-need-urgent-protection" target="_blank">The Guardian</a>
 excerpt_separator: <!--more-->
 image: githongo.jpg
 excerpt: A group of activists, lawyers and artists have launched a platform to help citizen watchdogs in often dangerous situations

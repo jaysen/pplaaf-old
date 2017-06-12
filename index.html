@@ -1354,7 +1354,7 @@ layout: default-en
 			<span id="latestnews-anchor" class="anchor"></span>
 			<h1>Latest Articles</h1>
             {% for post in site.posts limit:2 %}
-            <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
+            <div class="post-block col-xs-12 col-sm-6 col-md-6 col-lg-6">
 				{% if post.image %}
 					<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>
 				{% endif %}
@@ -1371,6 +1371,16 @@ layout: default-en
             </div>
             {% endfor %}
 		</section>
+
+		<section class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <br>
+			<hr>
+			<br>
+			<p>
+            <a class="btn btn-special center-block" href="/news.html">Click here for a full list of posts...</a>
+			<br><br><br>
+			</p>
+        </section>
 
 	</div>
 </div>

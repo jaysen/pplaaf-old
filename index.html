@@ -1353,7 +1353,7 @@ layout: default-en
 		<section id="latestnews">
 			<span id="latestnews-anchor" class="anchor"></span>
 			<h1>Latest Articles</h1>
-            {% for post in site.posts %}
+            {% for post in site.posts limit:2 %}
             <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
 				{% if post.image %}
 					<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>

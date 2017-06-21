@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: post-fr
 title: Lanceurs d'alerte!
 excerpt_separator: <!--more-->
 image: pplaaf-front.jpg
-origin: <a href="http://libeafrica4.blogs.liberation.fr/2017/03/19/lanceurs-dalerte/" target="_blank">Libération Africa 4</a>
+origin: de <a href="http://libeafrica4.blogs.liberation.fr/2017/03/19/lanceurs-dalerte/" target="_blank">Libération Africa 4</a>
 excerpt: Questions à... Henri Thulliez. Défenseur français des droits de l'Homme, il a été pendant cinq ans coordinateur pour HRW dans l’affaire Hissène Habré. Il est membre du Conseil d'administration de la PPLAAF.
 introduction: Questions à... Henri Thulliez. Défenseur français des droits de l'Homme, il a été pendant cinq ans coordinateur pour HRW dans l’affaire Hissène Habré. Il est membre du Conseil d'administration de la PPLAAF.
 category: fr

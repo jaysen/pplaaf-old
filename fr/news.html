@@ -1,10 +1,10 @@
 --- 
-layout: default-en 
+layout: default-fr
 ---
 <div class="media">
     <div class="container title">
-        <h1>News and Articles</h1>
-        <a class="language btn btn-default" href="/fr/news.html">Français</a>
+        <h1>Actualités</h1>
+        <a class="language btn btn-default" href="/news.html">English</a>
     </div>
 
     <div class="container content">
@@ -12,7 +12,7 @@ layout: default-en
 			<span id="latestnews-anchor" class="anchor"></span>
             <p><br></p>
             {% for post in site.posts %}
-            {% if post.layout == "post-en" %}
+            {% if post.layout == "post-fr" %}
             <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
 				{% if post.image %}
 					<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-en
 title: The New Rebels - Whistleblowers Need Protection as Africa Turns Corner on Accountability
 author: by the founders of PPLAAF -
 excerpt_separator: <!--more-->

@@ -5,6 +5,7 @@ origin: This article first appeared in <a href="https://mg.co.za/article/2017-05
 excerpt_separator: <!--more-->
 image: bourdon-mg.jpg
 excerpt: Cornered by the financial might of her former bosses of a Gupta-linked company, the woman who spilled the beans on Nenegate has landed the backing of an international whistle-blower champion.
+tags: featured
 ---
 
 <img class="img-responsive img-post center-block" src="/img/posts/bourdon-mg.jpg">

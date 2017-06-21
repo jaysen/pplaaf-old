@@ -1,7 +1,7 @@
 ---
 layout: post-fr
 title: La vidéo de William Bourdon lors du lancement.
-author: William Bourdon
+author: William Bourdon -
 excerpt_separator: <!--more-->
 image: video-bourdon-1.jpg
 origin: <a href="https://www.youtube.com/watch?v=A6LQ4gpFCUM" target="_blank">AZ ACTU.net</a>

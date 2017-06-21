@@ -1,7 +1,7 @@
 ---
 layout: post-fr
 title: Les lanceurs d’alerte africains ont un urgent besoin de protection
-author: William Bourdon
+author: William Bourdon -
 excerpt_separator: <!--more-->
 image: pplaaf-front.jpg
 origin: <a href="http://www.lemonde.fr/afrique/article/2017/03/07/les-lanceurs-d-alerte-africains-ont-un-urgent-besoin-de-protection_5090532_3212.html" target="_blank">Le Monde</a>

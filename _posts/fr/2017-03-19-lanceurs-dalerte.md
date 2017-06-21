@@ -7,6 +7,7 @@ origin: de <a href="http://libeafrica4.blogs.liberation.fr/2017/03/19/lanceurs-d
 excerpt: Questions à... Henri Thulliez. Défenseur français des droits de l'Homme, il a été pendant cinq ans coordinateur pour HRW dans l’affaire Hissène Habré. Il est membre du Conseil d'administration de la PPLAAF.
 introduction: Questions à... Henri Thulliez. Défenseur français des droits de l'Homme, il a été pendant cinq ans coordinateur pour HRW dans l’affaire Hissène Habré. Il est membre du Conseil d'administration de la PPLAAF.
 category: fr
+tags: featured
 ---
 
 <img class="img-responsive img-post center-block" src="/img/posts/pplaaf-fr-logo.jpg">

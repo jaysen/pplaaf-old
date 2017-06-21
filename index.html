@@ -1354,7 +1354,8 @@ layout: default-en
 			<span id="latestnews-anchor" class="anchor"></span>
 			<h1>Featured Articles</h1>
             {% for post in site.posts %}
-				{% if post.tag == "featured" %}
+				{% for tag in post.tags %}
+				{% if tag == "featured" %}
 				<div class="post-block col-xs-12 col-sm-6 col-md-6 col-lg-6">
 					{% if post.image %}
 						<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>
@@ -1371,6 +1372,7 @@ layout: default-en
 					<br><br>
 				</div>
 				{% endif %}
+				{% endfor %}
             {% endfor %}
 		</section>
 

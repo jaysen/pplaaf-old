@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-en
 title: PPLAAF&#58; Genuine efforts of Nigerian parliamentarians to protect whistleblowers welcomed
 excerpt_separator: <!--more-->
 image: nigeria-seminar.jpg

@@ -4,9 +4,7 @@ layout: default-en
 <div class="media">
     <div class="container title">
         <h1>News and Articles</h1>
-        <a class="language btn btn-default" href="/fr/media.html">Français</a>
-        <a class="btn btn-default language" href="/pt/media.html">Português</a>
-        <a class="language btn btn-default" href="/ar/media.html">العربية</a>
+        <a class="language btn btn-default" href="/fr/news.html">Français</a>
     </div>
 
     <div class="container content">
@@ -14,6 +12,7 @@ layout: default-en
 			<span id="latestnews-anchor" class="anchor"></span>
             <p><br></p>
             {% for post in site.posts %}
+            {% if post.layout == "post-en" %}
             <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
 				{% if post.image %}
 					<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>
@@ -29,6 +28,7 @@ layout: default-en
                 {% endif %}
 				<br><br>
             </div>
+            {% endif %}
             {% endfor %}
 		</section>
     </div>

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-en
 title: William Bourdon - PLAAF aims to support whistle-blowers
 origin: This article appeared on <a href="http://www.aljazeera.com/indepth/features/2017/03/william-bourdon-plaaf-aims-support-whistle-blowers-170330142827930.html" target="_blank">Aljazeera.com</a>
 excerpt_separator: <!--more-->

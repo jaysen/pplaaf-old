@@ -1,0 +1,28 @@
+---
+layout: default-fr
+---
+
+<div class="media">
+    <div class="container title">
+        <h2>{{ page.title }}</h2>
+        <h3>{{ page.author }} {{ page.date | date_to_string }}</h3>
+    </div>
+
+    <div class="container content">
+      <section class="post--content">
+        </br>
+        {% if page.origin %}
+          <h5>{{ page.origin }}</h5>
+          <hr>
+				{% endif %}
+                {% if page.introduction %}
+          <h3>{{ page.introduction }}</h3>
+          <hr>
+				{% endif %}
+
+
+        {{ content }}
+      </section>
+    </div>
+</div>
+

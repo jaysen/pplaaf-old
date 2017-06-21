@@ -1,0 +1,35 @@
+--- 
+layout: default-fr
+---
+<div class="media">
+    <div class="container title">
+        <h1>Actualités</h1>
+        <a class="language btn btn-default" href="/news.html">English</a>
+    </div>
+
+    <div class="container content">
+		<section id="latestnews">
+			<span id="latestnews-anchor" class="anchor"></span>
+            <p><br></p>
+            {% for post in site.posts %}
+            {% if post.layout == "post-fr" %}
+            <div class="post-block col-xs-6 col-sm-6 col-md-6 col-lg-6">
+				{% if post.image %}
+					<a href="{{ post.url }}"><img class="post-image img-responsive" src="/img/posts/{{ post.image }}"></a>
+				{% endif %}
+                <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                <h6>{{ post.author }} {{ post.date  | date_to_long_string }} 
+                {% if post.origin %}
+                    <br>{{ post.origin }}
+                {% endif %}</h6>
+                <p>{{ post.excerpt}}</p>
+                {% if post.excerpt != post.content %}
+                    <a class="btn btn-default" href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+                {% endif %}
+				<br><br>
+            </div>
+            {% endif %}
+            {% endfor %}
+		</section>
+    </div>
+</div>

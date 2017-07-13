@@ -1,7 +1,7 @@
 ---
 layout: post-en
 title: DRC&#58; New revelations concerning companies belonging to individuals close to Kabila
-author: by the founders of PPLAAF -
+author: 
 excerpt_separator: <!--more-->
 image: lumumba.jpg
 excerpt: New revelations concerning companies belonging to individuals close to Kabila result from documents sent to PPLAAF by a whistleblower.
@@ -37,7 +37,7 @@ On the same day, PPLAAF publishes a [report](https://pplaaf.org/drc.html) expres
 - [Article published in Le Monde](http://www.lemonde.fr/afrique/article/2017/07/11/le-mysterieux-yacht-de-luxe-des-partenaires-d-affaires-du-president-kabila_5159113_3212.html ) 
 
 ### For further information on PPLAAF, please consult:
-<https://pplaaf.org>
+- <https://pplaaf.org>
 
 To follow PPLAAF, follow its profiles:
 - Facebook: <https://www.facebook.com/PPLAAF/>

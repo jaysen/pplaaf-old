@@ -79,7 +79,7 @@ Un article de 2010 met en évidence la nécessité d'adopter une loi sur le lanc
 
 
 ## Keeping Score:
-Comment les lois de protection des lanceurs d’alerte de la République démocratique du Congo se comparent aux normes internationales
+**Comment les lois de protection des lanceurs d’alerte de la République démocratique du Congo se comparent aux normes internationales**
 
 Les normes suivantes pour les lois sur les lanceurs d’alerte sont dégagées des lignes directrices élaborées par l'OCDE, le Conseil de l'Europe, le Projet de Redevabilité du gouvernement, Blueprint for Free Speech et Transparency International.
 
@@ -89,21 +89,19 @@ Les normes suivantes pour les lois sur les lanceurs d’alerte sont dégagées d
 2 = La norme est partiellement reflétée dans les lois <br>
 3 = La norme est mal reflétée ou absente des lois
 
-
-
-| Standard                                                                                     | Public Sector | Private Sector |
-|----------------------------------------------------------------------------------------------|---------------|----------------|
-| A broad range of organisations and workplaces are covered                                    | 3             | 3              |
-| A broad range of offenses may be reported as whistleblowing                                  | 3             | 3              |
-| The definition of who may qualify as a whistleblower is broad                                | 3             | 3              |
-| A range of disclosure channels to report internally or to regulators is in place             | 3             | 3              |
-| People who make disclosures to external organizations, the media or the public are protected | 3             | 3              |
-| The threshold for protection is a reasonable belief that the information disclosed is true   | 3             | 3              |
-| There are opportunities and protections for anonymous disclosures                            | 3             | 3              |
-| Whistleblower confidentiality is protected unless expressly waived                           | 3             | 3              |
-| Organizations are required to establish internal disclosure procedures                       | 3             | 3              |
-| Whistleblowers are protected from a broad range of retaliatory acts                          | 3             | 3              |
-| Victimized whistleblowers have access to a full range of remedies and compensation           | 3             | 3              |
-| Those who retaliate against a whistleblower are subject to sanctions                         | 3             | 3              |
-| A whistleblower oversight or regulatory agency has been designated                           | 3             | 3              |
-| Whistleblower laws are administered and reviewed transparently                               | 3             | 3              |
+| Standard                                                                                                        | Secteur Public | Secteur Privé |
+|--------------------------------------------------------------------------------------------------------------|----------------|---------------|
+| Une large variété d’organisations et de fonctions sont couvertes                                             | 3              | 3             |
+| Une grandes variétés de violations peuvent reportées comme alerte                                            | 3              | 3             |
+| La définition de qui peut être qualifié de lanceur d’alerte est large                                        | 3              | 3             |
+| Une variété de canal d’information interne de report ou de régulation est disponible                         | 3              | 3             |
+| Les individus qui font des révélations à des organisations externes, aux médias ou au public sont protégés   | 3              | 3             |
+| Le seuil de protection est fonction de la foi accordée au caractère vraisemblable de l’information           | 3              | 3             |
+| Il y a des possibilités et des protections pour les révélations anonymes                                     | 3              | 3             |
+| La confidentialité du lanceur d’alerte est protégée à moins qu’il n’exprime sa volonté de s’afficher         | 3              | 3             |
+| Les organisations sont enjointes d’établir des protocoles et procédures internes pour la divulgation d’information    | 3              | 3             |
+| Les lanceurs d’alerte sont d’une large variétés d’actes de représailles                                      | 3              | 3             |
+| Les lanceurs d’alerte victimes ont accès à un large éventail de remèdes et de compensation                   | 3              | 3             |
+| Ceux qui attaquent les lanceurs d’alerte sont sujets à des sanctions                                         | 3              | 3             |
+| Une personnalité indépendante ou une agence de régulation a été désignée pour accompagner les lanceurs d’alerte       | 3              | 3             |
+| Les lois sur les lanceurs sont administrées et passées en revue de manière transparente                      | 3              | 3             |

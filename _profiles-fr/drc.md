@@ -2,7 +2,7 @@
 layout: profile-fr
 country: République Démocratique du Congo
 ---
-### Relevant legislation: 
+### Législations pertinentes
 - <a href="http://www.constitutionnet.org/sites/default/files/DRC%20-%20Congo%20Constitution.pdf">Constitution de la République démocratique du Congo (2011)</a>
 - <a href="http://www.droitcongolais.info/files/2.54.09.-Loi-du-16-octobre-2002_-Code-du-travail.pdf">Code du Travail (2002)</a>
 - <a href="http://www.wipo.int/edocs/lexdocs/laws/fr/cd/cd004fr.pdf">Code Penal Congolais (2004)</a>

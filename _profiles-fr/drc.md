@@ -1,5 +1,5 @@
 ---
-layout: profile-en
+layout: profile-fr
 country: République Démocratique du Congo
 ---
 ### Relevant legislation: 

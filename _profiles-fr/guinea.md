@@ -4,7 +4,6 @@ country: Guinée (Guinée Conakry)
 ---
 ### Sources législatives
 Liste des lois (titres seulement) se rapportant à :
-
 - [Constitution de la Guinée](http://www.womencount4peace.org/sites/default/files/sites/default/files/Document_legaux/Constitution%20-%20guinee%20-%20fr%20-20140111.pdf)
 - [Code du travail](http://images.mofcom.gov.cn/gn/201702/20170211004408568.pdf)
 - [Code pénal](http://images.mofcom.gov.cn/gn/201706/20170601190050853.pdf)

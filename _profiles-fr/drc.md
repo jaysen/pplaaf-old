@@ -85,9 +85,9 @@ Les normes suivantes pour les lois sur les lanceurs d’alerte sont dégagées d
 
 
 #### Clé
-1 = La norme est intégralement ou très bien reflétée dans les lois <br>
-2 = La norme est partiellement reflétée dans les lois <br>
-3 = La norme est mal reflétée ou absente des lois
+_1 = La norme est intégralement ou très bien reflétée dans les lois_ <br>
+_2 = La norme est partiellement reflétée dans les lois_<br>
+_3 = La norme est mal reflétée ou absente des lois_
 
 | Standard                                                                                                        | Secteur Public | Secteur Privé |
 |--------------------------------------------------------------------------------------------------------------|----------------|---------------|

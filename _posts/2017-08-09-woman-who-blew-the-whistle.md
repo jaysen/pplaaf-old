@@ -10,8 +10,9 @@ introduction: Through leaks, whistleblowers and damning reports we have come to 
 tag: featured
 
 ---
-<!-- <img class="img-responsive img-post center-block" src="/img/posts/democracy-defenders.jpg" title="©Oscar-Gutierrez - oscargutierrez.com"> -->
-
+<!-- 
+ <img class="img-responsive img-post center-block" src="/img/posts/trillian.jpg"> 
+ -->
 <br>
 Two key pieces of the state capture puzzle fell into place in late 2016.
 

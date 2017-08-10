@@ -5,8 +5,8 @@ author:
 origin: This article first appeared in <a href="http://amabhungane.co.za/article/2017-08-09-the-woman-who-blew-the-whistle" target="_blank">AmaBhungane</a>
 excerpt_separator: <!--more-->
 image: trillian.jpg
-excerpt: Through leaks, whistleblowers and damning reports we have come to understand the degree to which the state has been captured. On Women's Day we profile one courageous professional who helped make it happen.
-introduction: Through leaks, whistleblowers and damning reports we have come to understand the degree to which the state has been captured. On Women's Day we profile one courageous professional who helped make it happen.
+excerpt: Through leaks, whistleblowers and damning reports we have come to understand the degree to which the state has been captured. This article profiles the courageous former chief executive of a division of a Gupta-linked company who blew the whistle on Nenegate.
+introduction: Through leaks, whistleblowers and damning reports we have come to understand the degree to which the state has been captured. This article profiles the courageous former chief executive of a division of a Gupta-linked company who blew the whistle on Nenegate.
 tag: featured
 
 ---

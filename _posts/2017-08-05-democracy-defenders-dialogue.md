@@ -2,7 +2,7 @@
 layout: post-en
 title: Democracy Defenders Dialogue
 author: 
-origin: This article first appeared in <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Works</a>
+origin: This article first appeared as <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Defenders Dialogue - August 3, 2017</a> on the Democracy Works Foundation website
 excerpt_separator: <!--more-->
 image: democracy-defenders.jpg
 excerpt: Democracy Works Foundation (DWF), PPLAAF, Wits School of Governance (WSG) and Business Leadership South Africa (BLSA) hosted a public dialogue centering on the theme of Democracy Defenders
@@ -41,16 +41,28 @@ The event provided a critical platform and space for defenders of democracy, dem
 
 <br>
 <br>
+
+------------------
+The live event was recorded and available [via eNCA](https://www.enca.com/south-africa/catch-it-live-trillian-deal-whistleblower-to-speak-at-democracy-defenders-dialogue). That live recording can also be viewed in the embedded video below.
+<br>
+<br>
+<iframe src="https://cdnapisec.kaltura.com/p/1054541/sp/105454100/embedIframeJs/uiconf_id/28184731/partner_id/1054541?iframeembed=true&playerId=kaltura_player_1501521654&entry_id=1_81y2lbvi&flashvars[streamerType]=auto" width="560" height="395" allowfullscreen webkitallowfullscreen mozAllowFullScreen frameborder="0"></iframe>
+<br>
+<br>
+<br>
+This article first appeared as <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Defenders Dialogue - August 3, 2017</a> on the Democracy Works Foundation website
+<br>
+<br>
 <br>
 
-This article first appeared in <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Works</a>
-
 ----------------------
-#### To follow PPLAAF, follow its profiles:
+
+
+### To follow PPLAAF, follow its profiles:
 - Facebook: <https://www.facebook.com/PPLAAF/>
 - Twitter: [@pplaaf](https://twitter.com/pplaaf)
 
-#### For further information, please contact:
+### For further information, please contact:
 - In Paris, William Bourdon (French, English): [w.bourdon@bourdon-associes.com](mailto:w.bourdon@bourdon-associes.com) or + 33 1 42 60 32 60
 - In Paris, Henri Thulliez (French, English): [henri.thulliez@gmail.com](mailto:henri.thulliez@gmail.com) or + 33 6 98 04 66 72
 - In Johannesburg, Khadija Sharife (English): [ksharife@gmail.com](mailto:ksharife@gmail.com) or + 27 (71) 688 62 76 

@@ -2,7 +2,7 @@
 layout: post-en
 title: Democracy Defenders Dialogue
 author: 
-origin: This article first appeared as <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Defenders Dialogue - August 3, 2017</a> on the Democracy Works Foundation website
+origin: This article first appeared on the <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Works Foundation website</a>
 excerpt_separator: <!--more-->
 image: democracy-defenders.jpg
 excerpt: Democracy Works Foundation (DWF), PPLAAF, Wits School of Governance (WSG) and Business Leadership South Africa (BLSA) hosted a public dialogue centering on the theme of Democracy Defenders

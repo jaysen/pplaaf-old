@@ -42,6 +42,11 @@ The event provided a critical platform and space for defenders of democracy, dem
 <br>
 <br>
 
+This article first appeared as <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Defenders Dialogue - August 3, 2017</a> on the Democracy Works Foundation website
+<br>
+<br>
+<br>
+
 ------------------
 The live event was recorded and available [via eNCA](https://www.enca.com/south-africa/catch-it-live-trillian-deal-whistleblower-to-speak-at-democracy-defenders-dialogue). That live recording can also be viewed in the embedded video below.
 <br>
@@ -50,13 +55,9 @@ The live event was recorded and available [via eNCA](https://www.enca.com/south-
 <br>
 <br>
 <br>
-This article first appeared as <a href="http://democracyworks.org.za/democracy-defenders-dialogue/" target="_blank">Democracy Defenders Dialogue - August 3, 2017</a> on the Democracy Works Foundation website
-<br>
-<br>
-<br>
+
 
 ----------------------
-
 
 ### To follow PPLAAF, follow its profiles:
 - Facebook: <https://www.facebook.com/PPLAAF/>

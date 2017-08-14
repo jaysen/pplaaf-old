@@ -60,14 +60,13 @@ Duduzane Zuma pourrait être entendu en août sur cette « capture de l’Etat �
 
 --------------
 
-[PPLAAF](https://pplaaf.org/fr/faq.html) est une organisation non gouvernementale sénégalaise créée en mars 2017 proposant un spectre entier de solutions pour pourvoir aux différents besoins des lanceurs d’alerte : encryptage d’un bout à l’autre de la communication, soutien juridique gratuit en conseils ou en représentation légale contre des employeurs ou autre, assistance continue pour protéger le lanceur d’alerte dans la divulgation de l’information au public, développement de législations protégeant les lanceurs d’alerte. 
-
 ### Pour plus d’informations sur les enquêtes réalisées, veuillez consulter :
-- <http://lumumbapapers.info/ >
-- [Article du Monde](http://www.lemonde.fr/afrique/article/2017/07/11/le-mysterieux-yacht-de-luxe-des-partenaires-d-affaires-du-president-kabila_5159113_3212.html ) 
+- [Article du Monde](http://www.lemonde.fr/afrique/article/2017/07/25/guptaleaks-duduzane-zuma-fils-du-president-sud-africain-et-piece-maitresse-de-la-famille-gupta_5164755_3212.html ) 
 
 ### Pour plus d’informations sur PPLAAF, veuillez consulter :
 - <https://pplaaf.org>
+
+[PPLAAF](https://pplaaf.org/fr/faq.html) est une organisation non gouvernementale sénégalaise créée en mars 2017 proposant un spectre entier de solutions pour pourvoir aux différents besoins des lanceurs d’alerte : encryptage d’un bout à l’autre de la communication, soutien juridique gratuit en conseils ou en représentation légale contre des employeurs ou autre, assistance continue pour protéger le lanceur d’alerte dans la divulgation de l’information au public, développement de législations protégeant les lanceurs d’alerte. 
 
 ### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>

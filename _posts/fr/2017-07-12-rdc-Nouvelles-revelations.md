@@ -38,7 +38,7 @@ _« L’exemple de Jean Jacques Lumumba nous rappelle le rôle clef des lanceurs
 - [Article du Monde](http://www.lemonde.fr/afrique/article/2017/07/11/le-mysterieux-yacht-de-luxe-des-partenaires-d-affaires-du-president-kabila_5159113_3212.html ) 
 
 ### Pour plus d’informations sur PPLAAF, veuillez consulter :
-- https://pplaaf.org
+- <https://pplaaf.org>
 
 ### Pour suivre PPLAAF, suivez ses profils :
 - Facebook: <https://www.facebook.com/PPLAAF/>

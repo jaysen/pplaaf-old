@@ -36,8 +36,11 @@ Guinea’s whistleblowing protections are virtually non-existent. There is no ev
 
 ## Secrecy laws
 The disclosure of “confidential information concerning the company to third parties” is grounds for disciplinary action under the [Labor Code](http://images.mofcom.gov.cn/gn/201702/20170211004408568.pdf).  In addition, the [Penal Code](https://www.coursupremegn.org/download/CODE-PENAL) states that anyone who reveals secrets entrusted to them “by state or by profession” shall be punished with imprisonment for one month to one year and/or a fine, except in cases “where the law obliges them to denounce [these secrets].” 
-Treason, including sharing national defense secrets with foreign powers or agents, is punishable by death,  while the reproduction of national defense secrets without the intention of treason carries a 10-20 year sentence.  Sharing military information with the public is punishable with up to five years in prison. 
+
+Treason, including sharing national defense secrets with foreign powers or agents, is punishable by life imprisonment, while the reproduction of national defense secrets without the intention of treason carries a 10-20 year sentence.  Sharing military information with the public is punishable with up to five years in prison. 
+
 [The Penal Code](https://www.coursupremegn.org/download/CODE-PENAL)  implies that a law entitled le _Code des Activités Economiques_ includes details of practices considered unfair competition, which would likely include sharing of trade secrets. According to the Penal Code, fines and prison terms of up to one year are applicable for such digressions.  
+
 Under the Access to Information Law, all people should have access to information, “without it being necessary to justify why the information is sought”.  However certain types of information are not available under the Law, including information that could undermine the “privacy and dignity” of an individual as well as information pertaining to national security and court proceedings. Agencies have the right to deny “frivolous” claims and those pertaining to information they believe is already known to the individual requesting it. Notably, an employee who “knowingly supplies or causes to be supplied” information to an individual who does not have the right to access that information  risks up to four years imprisonment  – or more if the information is shared for corrupt purposes. 
 
 

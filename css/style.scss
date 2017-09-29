@@ -72,13 +72,13 @@ p {
 }
 
 .front-page {
-		background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+		background-image: url(../img/diagonal-noise.png);
 		padding-bottom: 30px;
 	.container.content {
 		background-color: #fff;
 		h1 {
 			background-color: #a94442;
-			background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+			background-image: url(../img/diagonal-noise.png);
 			padding: 20px;
 			color: #fff;
 			text-align: left;
@@ -104,7 +104,7 @@ p {
 				border-color: #fff;
 				font-size: 16px;
 				background-color: #a94442;
-				background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+				background-image: url(../img/diagonal-noise.png);
 				&:hover {
 					border-bottom-color: #a55856;
 				}
@@ -121,7 +121,7 @@ p {
 				border-color: #fff;
 				font-size: 16px;
 				background-color: #a94442;
-				background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+				background-image: url(../img/diagonal-noise.png);
 				&:hover {
 					border-bottom-color: #a55856;
 				}
@@ -205,7 +205,7 @@ p {
 
 .who-we-are, .contact, .faq, .media, .study, .profile {
 	margin-top: 52px;
-	background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+	background-image: url(../img/diagonal-noise.png);
 	padding-bottom: 30px;
 	padding-top: 30px;
 	blockquote {
@@ -226,7 +226,7 @@ p {
 	.container {
 		&.title {
 			background-color: #a94442;
-			background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+			background-image: url(../img/diagonal-noise.png);
 			color: #fff;
 			h1 {
 				margin: 30px 0;
@@ -329,7 +329,7 @@ p {
     line-height: 50px;
     height: 60px;
 	background-color: #a94442;
-	background-image: url("https://www.transparenttextures.com/patterns/diagonal-noise.png");
+	background-image: url(../img/diagonal-noise.png);
 	&:hover {
 		color: #fff;
 		border-radius: 4px 4px 4px 4px;

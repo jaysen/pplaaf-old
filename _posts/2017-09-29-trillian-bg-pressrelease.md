@@ -39,6 +39,8 @@ The disclosure of Goodson’s colleague - the “Nenegate” whistleblower, can 
 
 Despite South Africa having whistleblower legislation, the “state capture” scandal exposes it as a country where whistleblowers face severe and systemic reprisals including lawsuits, unemployment, smear campaigns and physical harm. 
 
+Goodson's full range of information is held offshore with various partners including relevant foreign government authorities.
+
 Inquiries of a legal nature should be addressed to PPLAAF president William Bourdon ([w.bourdon@bourdon-associes.com](mailto:w.bourdon@bourdon-associes.com)). No media interviews will be granted by Goodson for legal reasons. We ask that media respect her privacy and refrain from contacting her. 
 
 
